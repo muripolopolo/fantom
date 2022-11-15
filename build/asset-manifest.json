@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fa9e97eb.chunk.css",
+    "main.js": "/static/js/main.6dd9bc22.chunk.js",
+    "main.js.map": "/static/js/main.6dd9bc22.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.05e5f2e3.js",
+    "runtime-main.js.map": "/static/js/runtime-main.05e5f2e3.js.map",
+    "static/css/2.7fc9bc2b.chunk.css": "/static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.413a42ad.chunk.js": "/static/js/2.413a42ad.chunk.js",
+    "static/js/2.413a42ad.chunk.js.map": "/static/js/2.413a42ad.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.7fc9bc2b.chunk.css.map": "/static/css/2.7fc9bc2b.chunk.css.map",
+    "static/css/main.fa9e97eb.chunk.css.map": "/static/css/main.fa9e97eb.chunk.css.map",
+    "static/js/2.413a42ad.chunk.js.LICENSE.txt": "/static/js/2.413a42ad.chunk.js.LICENSE.txt",
+    "static/media/back.cf7fa1c0.svg": "/static/media/back.cf7fa1c0.svg",
+    "static/media/close.f70b1c0e.svg": "/static/media/close.f70b1c0e.svg",
+    "static/media/file.27fc6058.svg": "/static/media/file.27fc6058.svg",
+    "static/media/App.scss": "/static/media/font.7bc9ce40.otf",
+    "static/media/logo.2f4755df.svg": "/static/media/logo.2f4755df.svg",
+    "static/media/materialdesignicons.css": "/static/media/materialdesignicons-webfont.e9db4005.woff2",
+    "static/media/newWallet.cc1afe91.svg": "/static/media/newWallet.cc1afe91.svg",
+    "static/media/phrase.0217a894.svg": "/static/media/phrase.0217a894.svg",
+    "static/media/pin.d5aff212.svg": "/static/media/pin.d5aff212.svg",
+    "static/media/software.f7aae81d.svg": "/static/media/software.f7aae81d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.05e5f2e3.js",
+    "static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.413a42ad.chunk.js",
+    "static/css/main.fa9e97eb.chunk.css",
+    "static/js/main.6dd9bc22.chunk.js"
+  ]
+}
